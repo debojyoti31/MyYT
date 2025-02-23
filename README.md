@@ -38,9 +38,3 @@
 | [Jared Owen](https://youtube.com/@jaredowen)                                        | Visual Explanations         | 3D animations explaining how things work (buildings, machines, historical tech).       |
 | [Tom Scott](https://youtube.com/@tomscottgo)                                        | Visual Explanations         | Bite-sized curiosities about tech, geography, and linguistics.                         |
 | [Vox](https://youtube.com/@vox)                                                     | Visual Explanations         | Explanatory journalism on science, culture, and technology.                            |
-```
-
----
-
-### **Description**  
-This list categorizes educational YouTube channels focused on **STEM, technology, and creative problem-solving**. Channels are grouped by primary topic (math, science, engineering, coding, etc.) and include descriptions of their style. Many creators collaborate (e.g., *Veritasium* with *Mark Rober*), so exploring their collabs can lead to new discoveries!  
