@@ -1,4 +1,4 @@
-# Educational YouTube Channels by Category  
+# Educational YouTube Channels  
 *A curated list of STEM, tech, and coding channels for curious minds.*  
 
 | Channel Name & Link                                                                 | Category                   | Style/Topic Description                                                                 |
